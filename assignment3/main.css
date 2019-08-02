@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+    font-family: 'Fira Code', monospace;
+    color: #e8e8e8;
+    background-color: chocolate;
+}
+
+#btn {
+    background-color: burlywood;
+}
